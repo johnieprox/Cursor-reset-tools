@@ -223,7 +223,7 @@ mac 版本需要额外执行
   <table>
     <tr>
       <td align="center">
-        <img src="https://github.com/tancky777/Cursor-reset-tools/blob/main/assets/assets/wechat-pay.jpg" alt="微信赞赏码" width="150">
+        <img src="https://github.com/tancky777/Cursor-reset-tools/blob/main/assets/wechat-pay.jpg" alt="微信赞赏码" width="150">
         <br>
         <strong>微信赞赏</strong>
       </td>

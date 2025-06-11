@@ -42,11 +42,11 @@
 
 ## 💻 系统支持
 
-| 操作系统            | 支持版本              | 可执行文件            |
-| ------------------- | --------------------- | --------------------- |
-| Windows             | Windows 10/11 (x64)   | `cursor_reset-windows.exe`    |
-| macOS Intel         | macOS 10.14+ (x86_64) | `cursor_reset-macOS-Intel`  |
-| macOS Apple Silicon | macOS 11.0+   | `cursor_reset-macOS-ARM` |
+| 操作系统            | 支持版本              | 可执行文件                 |
+| ------------------- | --------------------- | -------------------------- |
+| Windows             | Windows 10/11 (x64)   | `cursor_reset-windows.exe` |
+| macOS Intel         | macOS 10.14+ (x86_64) | `cursor_reset-macOS-Intel` |
+| macOS Apple Silicon | macOS 11.0+           | `cursor_reset-macOS-ARM`   |
 
 ## 🚀 快速开始
 
@@ -212,7 +212,7 @@ mac 版本需要额外执行
 <div align="center">
   <img src="https://github.com/your-repo/cursor-reset/raw/main/assets/wechat-group.jpg" alt="微信群二维码" width="200">
   <p><strong>📱 微信群二维码</strong></p>
-  <p><em>如群满或二维码过期，可添加群主微信拉群</em></p>
+  <p><em>如群满或二维码过期，可添加群主微信Tyh_ba拉群</em></p>
 </div>
 
 ### ☕ 请作者喝杯咖啡
@@ -237,5 +237,3 @@ mac 版本需要额外执行
 </div>
 
 > 💡 **赞赏说明**：您的支持是我持续维护和优化工具的动力，每一份心意都非常珍贵！
-
-

@@ -210,7 +210,7 @@ mac 版本需要额外执行
 有问题或想交流使用心得？欢迎加入我们的微信群：
 
 <div align="center">
-  <img src="https://github.com/tancky777/Cursor-reset-tools/blob/main/assets/wechat-group.jpg" alt="微信群二维码" width="200">
+  <img src="https://github.com/tancky777/Cursor-reset-tools/blob/main/assets/wechat-group.jpg" alt="微信群二维码" width="400">
   <p><strong>📱 微信群二维码</strong></p>
   <p><em>如群满或二维码过期，可添加群主微信Tyh_ba拉群</em></p>
 </div>
@@ -223,12 +223,12 @@ mac 版本需要额外执行
   <table>
     <tr>
       <td align="center">
-        <img src="https://github.com/tancky777/Cursor-reset-tools/blob/main/assets/wechat-pay.jpg" alt="微信赞赏码" width="150">
+        <img src="https://github.com/tancky777/Cursor-reset-tools/blob/main/assets/wechat-pay.jpg" alt="微信赞赏码" width="240">
         <br>
         <strong>微信赞赏</strong>
       </td>
       <td align="center">
-        <img src="https://github.com/tancky777/Cursor-reset-tools/blob/main/assets/alipay.jpg" alt="支付宝收款码" width="150">
+        <img src="https://github.com/tancky777/Cursor-reset-tools/blob/main/assets/alipay.jpg" alt="支付宝收款码" width="240">
         <br>
         <strong>支付宝</strong>
       </td>

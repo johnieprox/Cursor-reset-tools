@@ -1,6 +1,6 @@
 # 🔄 Cursor Free Reset Tool
 
-> 一键重置 Cursor IDE 配置，延长试用体验 | Windows & macOS 双平台支持
+> 一键重置 Cursor IDE 配置，延长试用体验 | Windows & macOS 双平台支持，支持Cursor最新1.0+版本
 
 [![Platform](https://img.shields.io/badge/platform-Windows%20%7C%20macOS-blue.svg)](https://github.com/tancky777/Cursor-reset-tools/releases/tag/Cursor)
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)

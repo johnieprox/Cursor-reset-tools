@@ -44,9 +44,9 @@
 
 | 操作系统            | 支持版本              | 可执行文件            |
 | ------------------- | --------------------- | --------------------- |
-| Windows             | Windows 10/11 (x64)   | `cursor_reset.exe`    |
-| macOS Intel         | macOS 10.14+ (x86_64) | `cursor_reset_intel`  |
-| macOS Apple Silicon | macOS 11.0+ (M1/M2)   | `cursor_reset_m_chip` |
+| Windows             | Windows 10/11 (x64)   | `cursor_reset-windows.exe`    |
+| macOS Intel         | macOS 10.14+ (x86_64) | `cursor_reset-macOS-Intel`  |
+| macOS Apple Silicon | macOS 11.0+   | `cursor_reset-macOS-ARM` |
 
 ## 🚀 快速开始
 
